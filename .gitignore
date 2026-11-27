@@ -1,0 +1,16 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# Generated data (written by news.py)
+news.csv
+
+# IDE
+.idea/
+
+# OS
+.DS_Store
